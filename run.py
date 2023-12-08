@@ -34,7 +34,7 @@ logo=(f"""\033[1;37m
     db    88""Yb 88  88 88 
    dPYb   88__dP 88  88 88 
   dP__Yb  88""Yb 888888 88 
- dPoooYb 88oodP 88  88 88  
+  dPoooYb 88oodP 88  88 88  
 ----------------------------------------------
 [•] AUTHOR    : ABHISHEK RAI 
 [•] TOOLS     : FILE-CLONING
@@ -42,6 +42,7 @@ logo=(f"""\033[1;37m
 [•] FACEBOOK  : ABHISHEK BANTAWA RAI 
 [•] VERSION   : 0.4.1 
 [•] GITHUB    : ABHISHEKXBAAU
+----------------------------------------------""")
  OK IDS WILL BE SAVED IN AVHI FOLDER
 ----------------------------------------------""")
 def line():
