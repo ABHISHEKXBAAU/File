@@ -41,7 +41,7 @@ logo=(f"""\033[1;37m
 [•] TYPE      : FREE
 [•] FACEBOOK  : ABHISHEK BANTAWA RAI 
 [•] VERSION   : 0.4.1 
-[•] GITHUB    : ABHISHEKXBAAU
+[•] GITHUB    : ABHISHEKXBAAU 
 ----------------------------------------------""")
  OK IDS WILL BE SAVED IN AVHI FOLDER
 ----------------------------------------------""")
